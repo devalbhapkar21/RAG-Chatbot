@@ -66,7 +66,7 @@ python main.py
 
 ## Test results
 
-Fill in after running ``test` at the prompt`:
+
 
 | # | Question | Correct? | Notes |
 |---|---|---|---|

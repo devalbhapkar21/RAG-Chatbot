@@ -1,0 +1,5 @@
+In the Transformer model, how many layers are in the encoder and decoder stacks of the base model, and what is the model dimension?
+What two pre-training tasks does BERT use?
+How does LoRA reduce the number of trainable parameters when fine-tuning a large language model?
+What kind of data was LLaMA trained on, and how does LLaMA-13B compare with GPT-3?
+What are the two main components of the RAG model, and how do RAG-Sequence and RAG-Token differ?
